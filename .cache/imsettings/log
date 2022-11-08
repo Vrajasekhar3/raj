@@ -1,0 +1,28 @@
+[ 1667753996.069282]: IMSettings-Daemon[2210]: INFO: Starting imsettings-daemon...
+[ 1667753996.069912]: IMSettings-Daemon[2210]: INFO:   [HOME=/root/.config/imsettings]
+[ 1667753996.070017]: IMSettings-Daemon[2210]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1667753996.070120]: IMSettings-Daemon[2210]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1667753996.070187]: IMSettings-Daemon[2210]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1667753996.070251]: IMSettings-Daemon[2210]: INFO:   [MODULES=gsettings]
+
+imsettings information
+==========================
+XINPUTRC: N/A
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: yes
+Is Qt supported: no
+DESKTOP: gnome-classic
+GUESS_DESKTOP: $GDMSESSION
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-clHzMEZOBc,guid=ef4eaab0ee179b9510801fb06367e80b
+GTK_IM_MODULE: 
+QT_IM_MODULE: 
+XMODIFIERS: 
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+org.gnome.SettingsDaemon.Keyboard.desktop exists. imsettings is going to be disabled.
